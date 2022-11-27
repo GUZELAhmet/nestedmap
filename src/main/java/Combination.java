@@ -9,6 +9,7 @@ public class Combination {
         list.add(2);
         list.add(3);
         list.add(4);
+
         List<Integer> xlist = new ArrayList<Integer>();
 
         int[][] arr = new int[list.size() * (list.size() - 1)][list.size()];
